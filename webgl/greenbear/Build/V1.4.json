@@ -1,0 +1,13 @@
+{
+"companyName": "QiwoGames",
+"productName": "Sword Bear WebGL",
+"dataUrl": "V1.4.data.unityweb",
+"wasmCodeUrl": "V1.4.wasm.code.unityweb",
+"wasmFrameworkUrl": "V1.4.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#804800",
+"cacheControl": {"default": "must-revalidate"}
+}

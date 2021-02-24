@@ -1,0 +1,16 @@
+{
+"companyName": "QiwoGames",
+"productName": "Random Zoom Boys",
+"productVersion": "0.1",
+"dataUrl": "V2.0.data.unityweb",
+"wasmCodeUrl": "V2.0.wasm.code.unityweb",
+"wasmFrameworkUrl": "V2.0.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#7F613A",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
